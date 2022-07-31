@@ -1,0 +1,2 @@
+# hacking
+Ethical Hacking Notes
