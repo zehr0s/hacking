@@ -1,2 +1,6 @@
-# hacking
-Ethical Hacking Notes
+# Notes
+
+## TODO:
+- [x] Android
+- [ ] WiFi
+- [ ] Linux
