@@ -47,8 +47,7 @@ cd /sdcard/
 cd /sdcard/Whatsapp/
 ```
 ## backdoor in any .apk
-("Source code")[https://github.com/dana-at-cp/backdoor-apk]
+[Source code](https://github.com/dana-at-cp/backdoor-apk)
 
 ## fixed backdoor .apk source code
-("Fixed .apk")[https://github.com/giovannicolonna/msfvenom-backdoor-android/]
-
+[Fixed .apk](https://github.com/giovannicolonna/msfvenom-backdoor-android/)
