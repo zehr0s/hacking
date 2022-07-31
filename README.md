@@ -1,6 +1,4 @@
-# Notes
-
-## TODO:
+# TODO:
 - [x] Android
 - [ ] WiFi
 - [ ] Linux
